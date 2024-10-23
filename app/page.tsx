@@ -17,7 +17,7 @@ interface avatarSettings {
 
 // Customize your avatar here
 const avatar: avatarSettings = {
-  name: "Frank",
+  name: "mans",
   openai_voice: "echo",
   simli_faceid: "93684d75-f641-48f4-af80-acd1c1b6750f",
   initialPrompt:
